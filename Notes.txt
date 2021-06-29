@@ -1,0 +1,3 @@
+
+
+https://www.cs-fundamentals.com/c-programming/static-and-dynamic-linking-in-c
