@@ -1,0 +1,8 @@
+https://helloacm.com/how-to-use-the-dynamic-link-library-in-c-linux-gcc-compiler/
+
+Premier essai
+
+gcc -shared -o libhello.so -fPIC hello.c
+gcc -o test test.cpp -ldl
+./test
+ 
